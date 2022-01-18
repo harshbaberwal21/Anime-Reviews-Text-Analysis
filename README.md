@@ -10,7 +10,7 @@ The anime viewership is growing at an ever-increasing pace. Widespread streaming
 
 
 ## Problem Overview
-In this project, we tend to use the viewer’s reviews and study them to identify what anime characteristics do people appreciate most significantly (through positive reviews) and what others they find crucial to be improved (through negative reviews). To carry out this research, action and romance are chosen to be the two genres being studied. The rationale behind it is that these are two of the most reviewed genres and are the most distinct from each other compared to others. Moreover, the compatibility of our data and research question restricted us to use these two genres.
+In this project, we tend to use the viewer’s reviews and study them to identify what anime characteristics do people appreciate most significantly (through positive reviews) and what others they find crucial to be improved (through negative reviews). To carry out this research, action and romance are chosen to be the two genres to be studied. The rationale behind it is that these are two of the most reviewed genres and are the most distinct from each other in terms of content compared to others. Moreover, the compatibility of our data and research question restricted us to use these two genres.
 
 
 ## Data Overview
@@ -23,7 +23,7 @@ Further, with this data and nature of text-processing process, this project was 
 
 
 ## Output Overview
-The primary output of this exercise are wordclouds (with importance weighted size) for positive/negative reviews for both the genres. 
+The primary output of this exercise are wordclouds (with importance-weighted size) for positive/negative reviews for both the genres. 
 With better data quality and additional efforts directed towards data cleaning and processing, other forms of the output could be computed depending upon the use case.
 
 
