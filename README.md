@@ -21,8 +21,7 @@ The reviews being studied are scraped from the myanimelist.com website that hous
 The primary output of this exercise are wordclouds (with importance-weighted size) for positive/negative reviews for both the genres. 
 With better data quality and additional efforts directed towards data cleaning and processing, other forms of the output could be computed depending upon the use case.  
 
-
-##### Note: With this data and nature of text-processing process, this project was carried out as a one time activity and would require multiple changes to cater to a different dataset.  
+ 
 
 
 ## RawData Used
@@ -34,3 +33,5 @@ https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews?sel
 https://drive.google.com/file/d/1xm7liUUvJHcOddy6b3Bnoatybc7OPClN/view?usp=sharing
 
 
+
+##### Note: With this data and nature of text-processing process, this project was carried out as a one time activity and would require multiple changes to cater to a different dataset. 
