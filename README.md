@@ -4,17 +4,16 @@
 
 
 ## Description
-
-The anime viewership is growing at an ever-increasing pace. Widespread streaming platforms such as Netflix have taken a huge interest in anime. With increasing number of new anime, catering to everyone’s interests, the anime viewership is increasing a lot each year. This along with the success and popularity of the AT&T owned anime streaming platform, Crunchyroll, the industry is growing bigger at a fast pace. Today Netflix houses not only mainstream anime but also launches the up-and-coming anime to maintain the interest of viewers. With this budding popularity and growing market size, it is important to understand what the audience is looking for in anime and what sets them off about it.  
+The anime viewership is growing at an ever-increasing pace, owing to the increasing number of new anime catering to everyone’s interests, widespred adoption of anime by major streaming platforms such as Netflix. This along with the success and popularity of the AT&T owned anime streaming platform, Crunchyroll, this industry is growing bigger and bigger. Today Netflix houses not only mainstream anime but also launches the up-and-coming ones to maintain the interest of viewers. With this budding popularity and growing market size, it is important to understand what the audience is looking for in anime.
 
 
 
 ## Problem Overview
-In this project, we tend to use the viewer’s reviews and study them to identify what anime characteristics do people appreciate most significantly (through positive reviews) and what others they find crucial to be improved (through negative reviews). To carry out this research, action and romance are chosen to be the two genres to be studied. The rationale behind it is that these are two of the most reviewed genres and are the most distinct from each other in terms of content compared to others. Moreover, the compatibility of our data and research question restricted us to use these two genres.  
+In this project, we tend to use the viewer’s reviews and analyze them to identify what anime characteristics do people appreciate the most (through positive reviews) and what others they find crucial to be improved (through negative reviews). To carry out this research, action and romance are chosen to be the two genres to be studied. The rationale behind it is that these are two of the most reviewed genres and are the most distinct from each other in terms of content compared to others. Moreover, the compatibility of our data and research question restricted us to using these two genres.  
 
 
 ## Data Overview
-The reviews being studied are scraped from the myanimelist.com website that houses the anime community and discussions around multiple anime. The data contains 3 files; reviews, anime and profile. Reviews dataset has the reviews text aloing with anime-id and review-id. The anime dataset contains anime metadata such as anime genre.  
+The reviews being studied are scraped from myanimelist.com website that houses the anime community and discussions around multiple anime. The data contains 3 files; reviews, anime and profile. Reviews dataset has the reviews text aloing with anime-id and review-id. The anime dataset contains anime metadata such as anime genre.  
 
 
 ## Output Overview
