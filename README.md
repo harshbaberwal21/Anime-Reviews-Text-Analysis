@@ -21,7 +21,7 @@ The reviews being studied are scraped from the myanimelist.com website that hous
 The primary output of this exercise are wordclouds (with importance-weighted size) for positive/negative reviews for both the genres. 
 With better data quality and additional efforts directed towards data cleaning and processing, other forms of the output could be computed depending upon the use case.  
 
-Below is a wordcloud for positive action characteristics
+Below is a wordcloud of the most appreciated characteristics of an action genre anime.
 ![Wordcloud](https://github.com/harshbaberwal21/Anime-Reviews-Text-Analysis/blob/c159adb292bd655c4511c9073c2d2a5eea4e8741/WordClouds/wordcloud_action_pos.png)
  
 
