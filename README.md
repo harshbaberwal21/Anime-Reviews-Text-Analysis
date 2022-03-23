@@ -28,6 +28,7 @@ Below is a wordcloud of the most appreciated characteristics of an action genre 
 
 ## RawData Used
 
+
 ##### Kaggle Dataset Link (might have been updated):
 https://www.kaggle.com/marlesson/myanimelist-dataset-animes-profiles-reviews?select=reviews.csv. 
 
@@ -36,4 +37,4 @@ https://drive.google.com/file/d/1xm7liUUvJHcOddy6b3Bnoatybc7OPClN/view?usp=shari
 
 
 
-##### Note: With this data and nature of text-processing process, this project was carried out as a one time activity and would require multiple changes to cater to a different dataset. 
+##### Note: With this data, nature of text-processing process and this being an academic course project, it was carried out as a one time activity and would require multiple changes to cater to a different dataset. 
