@@ -4,7 +4,7 @@
 
 
 ## Description
-The anime viewership is growing at an ever-increasing pace, owing to the increasing number of new anime catering to everyone’s interests, widespred adoption of anime by major streaming platforms such as Netflix. This along with the success and popularity of the AT&T owned anime streaming platform, Crunchyroll, this industry is growing bigger and bigger. Today Netflix houses not only mainstream anime but also launches the up-and-coming ones to maintain the interest of viewers. With this budding popularity and growing market size, it is important to understand what the audience is looking for in anime.
+The anime viewership is growing at an ever-increasing pace, owing to the increasing number of new anime catering to everyone’s interests, widespread adoption of anime by major streaming platforms such as Netflix. This along with the success and popularity of the AT&T owned anime streaming platform, Crunchyroll, this industry is growing bigger and bigger. Today Netflix houses not only mainstream anime but also launches the up-and-coming ones to maintain the interest of viewers. With this budding popularity and growing market size, it is important to understand what the audience is looking for in anime.
 
 
 
